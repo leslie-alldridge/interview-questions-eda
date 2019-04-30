@@ -2,7 +2,9 @@
 
 ## Before applying
 
-Ask yourself: Is this a job or an opportunity? If you answered job, I suggest applying for something else you're passionate about that will challenge you. Stretch further and reach higher so your mind is thinking along the lines of "how insane would it be if I got that job, I'd learn so much and it'd change my life." 
+#### Ask yourself: 
+
+Is this a job or an opportunity? If you answered job, I suggest applying for something else you're passionate about that will challenge you. Stretch further and reach higher so your mind is thinking along the lines of "how insane would it be if I got that job, I'd learn so much and it'd change my life." 
 
 As tough or awkward as it may be, send your CV and cover letter example to 2-3 friends for feedback. You don't need to implement everything they suggest, but at least ask why and understand their point of view. 
 
