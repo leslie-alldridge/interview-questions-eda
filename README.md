@@ -39,3 +39,16 @@ E.g. if you apply at TradeMe, make a new bidding feature, redesign featured list
 The following day before 9am send a message to thank them for their time. If you found a common ground - leverage that. E.g. "Thanks for your time the other day. It was great to hear about the exponential growth that the company is experiencing and I hope your cat is recovering from the recent fight." 
 
 This reminds them that you exist and is considered standard etiquette.
+
+### Prep for the interview
+* Have you built an application relevant to the business?
+* Has the employer actually viewed your online portfolio? Do you even have one?
+* Who else is applying, what do they have that you might not have? Can you change this?
+* What is the strategy and core values for the business you're applying to?
+* Have you researched your interviewer and did they view your LinkedIn recently?
+* Is your preparation complete? common questions, technical testing, etc
+* What questions have you prepared (PLEASE don't ask about salary or other bog standard questions such as "what is a day in the life of a developer look like?" "what keeps you showing up to work?" "what is the team like?")
+* Why not ask the above questions? They're boring and you won't stand out from other applicants. 
+
+Try asking things like "what is a recent challenge the team have overcome?" "is there a budget for team building activities?" "will there be learning material and support in place when a new technology is required?"
+
