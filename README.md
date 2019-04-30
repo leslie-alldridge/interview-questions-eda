@@ -56,3 +56,20 @@ This reminds them that you exist and is considered standard etiquette.
 
 Try asking things like "what is a recent challenge the team have overcome?" "is there a budget for team building activities?" "will there be learning material and support in place when a new technology is required?"
 
+### During the interview
+
+If everything is going well, then my only advice is to send a message through to thank them for their time. After 1.5 - 2 weeks if you hear nothing back, kindly follow up. 
+
+Things are awkward or going wrong? If this is the company you want to work for, let them know the truth. Use a recovery line (I'm assuming you've prepared these as part of standard interview prep).
+
+E.g. "The answer to xyz I provided earlier wasn't one I'm confident with. I'm happy to research it later today and provide an answer to you." 
+
+"Sorry about the mistake earlier, I've thought about the question again and the answer has come to mind" 
+
+"I'm not too sure what the answer is, but I know xyz talks to zyx and I'd just need to confirm that the api supports a payload in this format" 
+
+### Job offer 
+
+You can decide which offer is best. Once you get a job, help others out. Evangelism is highly regarded. Google it if you're unsure what it is. (link here https://medium.com/@codepo8/what-does-a-developer-evangelist-advocate-do-3ad936dff3e4) 
+
+No offer / rejected? That's fine. You should have been coding and learning daily in the meantime so your future applications will be way better than what you submitted for this current role. Keep stepping forward and growing, eventually you'll be staring into intermediate roles and will end up landing a job way above what you considered possible (due to continual hard work and dediciation throughout job applications). 
